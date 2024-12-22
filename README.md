@@ -9,7 +9,7 @@ Mini Router Scan adalah aplikasi sederhana yang dirancang untuk memindai dan men
 #
 <b>[ Cara Penggunaan Mini Router Scan ]</b>
 
-1. Download MRS via:
+1. Download MRS via: https://codeload.github.com/MichaelJorky/Mini-Router-Scan/zip/refs/heads/main
 2. Edit ip_address.txt dan isikan dengan target IP Address tujuan, maks 1000 lines pertesting.
 3. Edit mod_ssid.txt WifiName (ganti dengan nama SSID yang diinginkan), PasswordName (ganti dengan password yang diinginkan).
 4. Edit user_pass.txt dan Anda bisa menambahkan daftar username dan password, secara default user_pass.txt sudah terisi daftar username dan password dari berbagai jenis Router yang ada dari berbagai belahan Bumi.
